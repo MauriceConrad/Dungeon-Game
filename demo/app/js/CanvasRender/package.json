@@ -1,0 +1,16 @@
+{
+  "name": "canvasrender",
+  "version": "0.0.1",
+  "description": "Canvas Renderer",
+  "main": "render.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "render",
+    "dungeon",
+    "canvas"
+  ],
+  "author": "Maurice Conrad",
+  "license": "ISC"
+}

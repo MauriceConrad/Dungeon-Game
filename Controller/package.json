@@ -1,0 +1,16 @@
+{
+	"name": "controller",
+	"version": "0.0.1",
+	"description": "Game controller",
+	"keywords": [
+		"game",
+		"controller",
+		"game"
+	],
+	"license": "ISC",
+	"author": "Maurice Conrad",
+	"main": "Controller.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}

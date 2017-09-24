@@ -1,0 +1,46 @@
+[
+  {
+    "name": "stone",
+    "location": "texture/stone3.jpg"
+  },
+  {
+    "name": "way",
+    "location": "texture/way-brighter.png"
+  },
+  {
+    "name": "player",
+    "location": "texture/player.png"
+  },
+  {
+    "name": "monster",
+    "location": "texture/monster.png"
+  },
+  {
+    "name": "explosion_frame_1",
+    "location": "texture/explosion-1.png"
+  },
+  {
+    "name": "explosion_frame_2",
+    "location": "texture/explosion-2.png"
+  },
+  {
+    "name": "explosion_frame_3",
+    "location": "texture/explosion-3.png"
+  },
+  {
+    "name": "explosion",
+    "frames": [
+      "texture/explosion-0.png",
+      "texture/explosion-1.png",
+      "texture/explosion-2.png",
+      "texture/explosion-3.png",
+      "texture/explosion-2.png",
+      "texture/explosion-1.png"
+    ],
+    "delay": 50
+  },
+  {
+    "name": "health",
+    "location": "texture/donut.png"
+  }
+]

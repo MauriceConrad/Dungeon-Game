@@ -1,0 +1,16 @@
+{
+  "name": "game",
+  "version": "0.0.1",
+  "description": "Game instance",
+  "main": "Game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "game",
+    "instance"
+  ],
+  "author": "Maurice Conrad",
+  "license": "ISC"
+}

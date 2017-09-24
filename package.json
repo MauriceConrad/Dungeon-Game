@@ -1,0 +1,22 @@
+{
+	"name": "dungeon",
+	"version": "0.0.1",
+	"description": "A Dungeon game",
+	"keywords": [
+		"dungeon",
+		"game"
+	],
+	"license": "ISC",
+	"author": "Maurice Conrad",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"console-png": "^1.2.1",
+		"keycode": "^2.1.9",
+		"keydown": "0.0.3",
+		"keypress": "^0.2.1",
+		"webworker-threads": "^0.7.12"
+	}
+}

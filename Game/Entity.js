@@ -12,6 +12,7 @@ module.exports = (function() {
   */
 
   return {
+    
     // All types of monsters (At least once)
     monsters: [
       {

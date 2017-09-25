@@ -1,9 +1,20 @@
 # Game
 
+## Important Note:
+
+Actual a README.md in german because the game was a part of a code competition and this text was the original README used in this context.
+
+This was a part of a code competition in 2017. The develop is still not finished therefore.
+
+Have a look at the running examples within `demo` folder. One implementation is command-line online ;-) The other is working but of course not finished. It is a graphical implementation that runs in electron
+
+### English translation
+
+Yes, I want to translate it in english but at the moment.
+
+Try to get a simple look at the code examples or have a look at the code. The code is commented very detailed in english!
+
 ## Einbindung
-
-Für die Einbindung des Moduls muss das Modul als constructor aufgerufen werden.
-
 
 
 Als Argument werden Optionen mitgegeben. Mehr dazu im Code-Beispiel Ist dieses valide, wird es verwendet. Wenn nicht, wird das Spiel neu generiert.
@@ -17,8 +28,6 @@ var myGame = new Game({
   height: 32, // Height of map
   structureSize: 1.3 // Generating value (1.3 is recommended)
 });
-
-
 ```
 
 Um Events zu transportieren werden innerhalb der nun erstellen Instanz die Methoden "attack" und "move" aufgerufen die als Argumente die X-Distanz und die Y-Distanz benötigen. Die Zuordnung zu Keyboard Events oder dergleichen passiert also außerhalb.
